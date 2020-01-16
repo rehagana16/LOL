@@ -16,3 +16,5 @@ int main() {
         	printf("koefisien dari pangkat ke %d= ", i);
         	scanf("%d", &angka[i]);
         }
+    }
+}
